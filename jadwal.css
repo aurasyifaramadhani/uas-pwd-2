@@ -1,0 +1,35 @@
+body {
+ font-family: Arial, Helvetica, sans-serif;
+ background-color: #ffffff;
+ text-align: center;
+}
+h2 {
+ margin: 20px 0;
+}
+table {
+ margin: auto;
+ border-collapse: collapse;
+ width: 90%;
+}
+th, td {
+ border: 1px solid #333;
+ padding: 10px;
+ font-size: 14px;
+}
+/* WARNA KOLOM */
+.senin {
+ background-color: #ffd6d6;
+}
+.selasa {
+ background-color: #ccffcc;
+}
+.rabu {
+ background-color: #ccccff;
+}
+.kamis {
+ background-color: #fff2b3;
+}
+.istirahat {
+ background-color: #e6e6e6;
+ font-weight: bold;
+}
